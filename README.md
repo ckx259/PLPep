@@ -17,7 +17,7 @@ conda activate PLPep
 
 ## Installation:
 
-* 从https://github.com/ckx259/plpep/下载这个存储库。然后，在Linux系统上解压缩并运行以下命令行。
+* 从https://github.com/ckx259/plpep/.下载这个存储库。然后，在Linux系统上解压缩并运行以下命令行。
 
 ~~~
   $ cd PLPep-master
